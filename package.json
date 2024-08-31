@@ -1,0 +1,33 @@
+{
+  "name": "presonal-project",
+  "version": "1.0.0",
+  "description": "This is my presonal project",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjram14/Presonal-Project---React.git"
+  },
+  "keywords": [
+    "React",
+    "Building",
+    "React",
+    "App",
+    "Ram"
+  ],
+  "author": "Ram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjram14/Presonal-Project---React/issues"
+  },
+  "homepage": "https://github.com/rjram14/Presonal-Project---React#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
